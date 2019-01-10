@@ -1,8 +1,8 @@
-public/bundle.js
+dist/bundle.js
 node_modules/
 .eslintcache
 .DS_Store
-public/*bundle*
+dist/*bundle*
 *.bundle.js
 .sass-cache/
 .idea/
