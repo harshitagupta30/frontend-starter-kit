@@ -40,6 +40,7 @@ const plugins = [
 ]
 
 module.exports = {
+  mode: "development",
   entry: __dirname + '/src/app/index.js', // webpack entry point. Module to start building dependency graph
   output: {
     path: path.resolve(__dirname, 'dist'),  // Folder to store generated bundle
